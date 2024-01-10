@@ -2,7 +2,7 @@
 with open ('your_file.txt','r') as f1:
     lines = f1.readlines()
 
-with open ('calc-converter-unrefined.txt','w') as f2:
+with open ('result.txt','w') as f2:
     f2.write('Param\n')
     for i in range (1,7):
         f2.write('""->X__'+str(i)+'\n')
@@ -18,13 +18,13 @@ with open ('calc-converter-unrefined.txt','w') as f2:
         f2.write('"'+str(coords[0])+'"->X__'+str(count)+'\n')
         f2.write('"'+str(coords[1])[1:]+'"->Y__'+str(count)+'\n')
         if (count == 6):
-            f2.write('RecallPic 1\nStorePic1\n')
+            f2.write('RecallPic 1\nStorePic 1\n')
             count = 0
 
-with open ('calc-converter-unrefined.txt','r') as f3:
+with open ('result.txt','r') as f3:
     unrefined = f3.readlines()
 
-with open ('calc-converter-final.txt','w') as f4:
+with open ('result.txt','w') as f4:
     for line in unrefined:
         line = line.replace('t','T')
         line = line.replace('->','→')
