@@ -2,11 +2,11 @@
 
 The main idea is to be able to take any reference picture, pass it through [Maltaisn/svg-equations](https://github.com/maltaisn/svg-equations) to get the parametric equations that would form the picture, then use this code to translate the parametric equations into code that is readable by the TI Connect CE app, so that the picture may be graphed on the TI-84 Graphing Calculator.
 
-With some creativity, you can go from an image like this:
+With some creativity, you can go from an image like this:< br / >
 <img width="428" height="350" alt="HCJC_Nguyen Vu Kien Raymond" src="https://github.com/user-attachments/assets/ec9e4944-8512-411f-a24a-697148c6d8ec" />
 
-To this on a Ti-84 calculator:
-<img width="428" height="233" alt="HCJC_Nguyen Vu Kien Raymond" src="https://github.com/user-attachments/assets/e4fc5bf3-5501-4d86-a417-e538d673ba97" />
+To this on a Ti-84 calculator:< br / >
+<img width="428" height="322" alt="HCJC_Nguyen Vu Kien Raymond" src="https://github.com/user-attachments/assets/e4fc5bf3-5501-4d86-a417-e538d673ba97" />
 
 
 ## Instructions
