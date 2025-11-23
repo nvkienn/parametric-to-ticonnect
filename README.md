@@ -5,7 +5,7 @@ The main idea is to be able to take any reference picture, pass it through [Malt
 With some creativity, you can go from an image like this:<br/>
 <img width="415" height="350" alt="HCJC_Nguyen Vu Kien Raymond" src="https://github.com/user-attachments/assets/ec9e4944-8512-411f-a24a-697148c6d8ec" />
 
-To this on a Ti-84 calculator:<br/>
+To this on a TI-84 calculator:<br/>
 <img width="428" height="322" alt="HCJC_Nguyen Vu Kien Raymond" src="https://github.com/user-attachments/assets/e4fc5bf3-5501-4d86-a417-e538d673ba97" />
 
 
